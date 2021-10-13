@@ -1,0 +1,6 @@
+Git es un Sistema de control de versiones. Administra las distintas versiones de un programa(VCS).
+Ideal para múltiples desarrolladores en un mismo proyecto.
+Queda un registro de cada línea de código, por lo que siempre se puede volver a versiones anteriores. Por ello, pueden revertir cambios a la instancia que precises.
+Puede trabajar con repositorios locales o remotos.
+Para utilizar repositorios locales utilizo git, para trabajar con repositorios remotos utiliza github.
+Github es una “nube” de repositorios. Existen varias empresas que ofrecen el mismo servicio
